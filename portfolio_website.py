@@ -10,7 +10,7 @@ col1 , col2 = st.columns(2)
 
 with col1:
     st.subheader("Hi :wave:")
-    st.title("I am Aniket")
+    st.title("I am Aniket Sidhu")
 
 with col2:
     st.image("images/the-power-of-deadpool-6e-1920x1200.jpg")
